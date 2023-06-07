@@ -60,10 +60,30 @@ body {
     object-fit: cover;
   }
 
+  .profil {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+    text-align: center;
+    background-color: #d8d7d7;
+  }
+
+  .profil h2 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 30px;
+    font-weight: bold;
+  }
+
+  .profil p {
+    font-size: 20px;
+    line-height: 1.6;
+    color: #555;
+  }
+
   .visi-misi {
     background-color: #f8f9fa;
     text-align: center;
-    padding: 80px 0;
+    padding: 50px 0;
     background-color: #d8d7d7;
   }
 
@@ -79,6 +99,10 @@ body {
 
   .visi-misi .col-md-6 {
     margin-bottom: 30px;
+  }
+
+  .visi-misi p{
+    font-size: 20px;
   }
 
   .features {
@@ -114,7 +138,7 @@ body {
   }
 
   .features p {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .cta {
@@ -129,7 +153,7 @@ body {
   }
 
   .cta p {
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 40px;
   }
 
